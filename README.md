@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/23/bd/01/23bd0157d8aaa3885bdd4273e8a91178.gif)
+![MasterHead](https://i.pinimg.com/originals/23/bd/01/23bd0157d8aaa3885bdd4273e8a91178.gif)
 
 <h1 align="center">Hi 👋, I'm Samarth Yawalkar</h1>
 <h3 align="center">A project maestro from India, orchestrating success one sprint at a time.</h3>
